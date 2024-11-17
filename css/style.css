@@ -1,0 +1,39 @@
+body{
+    background-color: #333232;
+}
+#fst {
+    color: black;
+    text-align: center;
+    margin: 20px auto;
+    font-size: 80px;
+    font-family: Impact;
+    letter-spacing: 3px; 
+}
+
+#container {
+    background-color: #0f2431;
+    border: 5px solid #f5e4c3;
+    height: 300px;
+    width: 850px;
+    margin: 90px auto;
+    text-align: center;
+}
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 22px;
+    background-color: rgb(192, 191, 191);
+    
+}
+#btn:hover{
+    background-color: black;
+    color: white;
+}
+
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: white;
+    padding: 2px 10px;
+}
